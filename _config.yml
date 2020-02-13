@@ -7,7 +7,7 @@
 
 # Site settings
 title: Little C
-brief-intro: None
+brief-intro: *Asylum
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://chorious.github.io" # the base hostname & protocol for your site
 
