@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Claude Code 部署笔记"
-date:   2026-04-12 14:00:00
+date:   2026-04-12 00:00:00
 categories: Base
 tags:  Code Tool Experience
 author: chorious
